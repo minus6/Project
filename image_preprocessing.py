@@ -1,4 +1,3 @@
-# Zeiss
 # Image pre-processing
 
 import glob
